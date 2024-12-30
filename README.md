@@ -2,7 +2,9 @@
 
 A friendly chatbot built using Python, Tkinter, and the DialoGPT model from the Transformers library. This chatbot, named Bear, uses natural language processing to engage in interactive conversations with users through a GUI interface.
 
-![Bear-Chatbot-py Screenshot](assets/chatbot.png)
+<p align="center">
+  <img src="assets/chatbot.png" alt="Bear-Chatbot-py Screenshot" width="60%">
+</p>
 
 ## Features
 
@@ -31,7 +33,7 @@ Ensure you have Python 3.x installed. You can download it from [here](https://ww
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Bear-Chatbot-py.git
+    git clone https://github.com/imranfaiz786/Bear-Chatbot-py.git
     cd Bear-Chatbot-py
     ```
 
